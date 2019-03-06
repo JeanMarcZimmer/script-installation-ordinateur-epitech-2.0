@@ -14,7 +14,7 @@ reboot=0
 
 ## fake install ?
 
-fake=1
+fake=0
 
 ## colors
 
